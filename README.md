@@ -2,6 +2,11 @@
 
 Repositório para os projetos da disciplina Aprendizado de Máquina ministrada pelo Professor Dr Aydano Machado.
 
+## Equipe Backend Boys
+
+- Rick Martim
+- Rafael Emílio
+
 ## Atividades
 
 ### Pré-processamento
